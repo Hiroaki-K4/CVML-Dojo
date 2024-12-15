@@ -3,6 +3,14 @@
 ## Easy
 1. **Matrix Initialization**  
 Create a NumPy array of shape (5, 5) where the border elements are 1 and the inner elements are 0.
+```
+[[1 1 1 1 1]
+ [1 0 0 0 1]
+ [1 0 0 0 1]
+ [1 0 0 0 1]
+ [1 1 1 1 1]]
+```
+
 2. **Row and Column Sums**  
 Given a matrix, return two arrays: one containing the sum of each row and the other containing the sum of each column.
 3. **Extract Odd Numbers**  
