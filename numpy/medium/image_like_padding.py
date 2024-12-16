@@ -8,4 +8,4 @@ def image_like_padding():
 
 
 if __name__ == "__main__":
-    image_like_padding()
+    print(image_like_padding())
