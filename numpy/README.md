@@ -33,17 +33,15 @@ Given a square matrix, calculate the product of the elements along its primary d
 ## Hard
 1. **Convolution**  
 Implement a function to perform a 2D convolution between an input matrix and a kernel without using any external libraries.
-2. **Game of Life**  
-Implement one iteration of Conway’s Game of Life using NumPy. The function should accept a binary 2D array and return the updated grid.
-3. **Nearest Neighbor Interpolation**  
+2. **Nearest Neighbor Interpolation**  
 Given a 2D array, implement nearest-neighbor interpolation to resize it to a new shape.
-4. **Matrix Spiral Traversal**  
+3. **Matrix Spiral Traversal**  
 Write a function that traverses a 2D matrix in a spiral order and returns the elements as a 1D array.
-5. **Simulate Diffusion**  
+4. **Simulate Diffusion**  
 Simulate a heat diffusion process on a 2D grid using NumPy. At each step, the new temperature of a cell is the average of its current value and its four neighbors.
-6. **Count Subarrays with Target Sum**  
+5. **Count Subarrays with Target Sum**  
 Given a 1D array, count the number of contiguous subarrays that sum up to a given target using efficient array slicing techniques.
-7. **Custom Sorting**  
+6. **Custom Sorting**  
 Given a 2D array, sort all rows based on the values in the last column.
 
 ## Performance and Optimization Challenges
