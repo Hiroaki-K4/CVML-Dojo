@@ -17,6 +17,8 @@ Given a matrix, return two arrays: one containing the sum of each row and the ot
 Write a function that extracts all odd numbers from a 1D NumPy array and returns them in a new array.
 4. **Replace Values**  
 Replace all negative numbers in a 2D array with 0 without creating a new array.
+5. **Flatten an Image**
+Given a 3D array representing an RGB image, flatten it into a 2D array where each row represents the RGB values of a pixel.
 
 ## Medium
 1. **Matrix Multiplication**  
@@ -59,13 +61,3 @@ def compute_sums(arr):
 Given two 2D arrays representing points in 2D space, compute the Euclidean distances between each pair of points without using loops.
 3. **Simulate Random Walks**  
 Write a function that simulates multiple random walks in a 2D grid and calculates the average distance from the origin after n steps.
-
-## Practical Problems
-1. **Flatten an Image**  
-Given a 3D array representing an RGB image, flatten it into a 2D array where each row represents the RGB values of a pixel.
-2. **Histogram Equalization**  
-Implement histogram equalization for a grayscale image represented as a 2D NumPy array.
-3. **Find Missing Data**  
-Given a 2D array with some missing values represented as np.nan, replace the missing values with the mean of their respective columns.
-4. **Stock Price Analysis**  
-Given a 1D array of daily stock prices, calculate the maximum profit that can be made by buying and selling the stock once.
