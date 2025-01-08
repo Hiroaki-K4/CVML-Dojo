@@ -33,15 +33,13 @@ Implement a function to calculate the moving average of a 1D NumPy array with a 
 Given a square matrix, calculate the product of the elements along its primary diagonal and secondary diagonal.
 
 ## Hard
-1. **Convolution**  
-Implement a function to perform a 2D convolution between an input matrix and a kernel without using any external libraries.
-2. **Nearest Neighbor Interpolation**  
+1. **Nearest Neighbor Interpolation**  
 Given a 2D array, implement nearest-neighbor interpolation to resize it to a new shape.
-3. **Matrix Spiral Traversal**  
+2. **Matrix Spiral Traversal**  
 Write a function that traverses a 2D matrix in a spiral order and returns the elements as a 1D array.
-4. **Count Subarrays with Target Sum**  
+3. **Count Subarrays with Target Sum**  
 Given a 1D array, count the number of contiguous subarrays that sum up to a given target using efficient array slicing techniques.
-5. **Custom Sorting**  
+4. **Custom Sorting**  
 Given a 2D array, sort all rows based on the values in the last column.
 
 ## Performance and Optimization Challenges
