@@ -25,7 +25,6 @@ class SelfAttention(nn.Module):
         scaled_dot_products = dot_products / np.sqrt(key_dim)
         # apply a softmax function to obtain attention weights -> A
         A = F.softmax(scaled_dot_products, dim=1)
-        # self.attention_weights = [w.detach().numpy() for w in attention_weights]
         # get weighted values
         weighted_values = torch.matmul(A, v)
 
