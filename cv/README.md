@@ -1,0 +1,11 @@
+# Computer Vision
+- OpenCV image manipulation (cv2.resize, cv2.filter2D)
+- OpenCV basic transformations (cv2.warpAffine, cv2.warpPerspective)
+- Feature extraction
+- Feature matching
+- Camera pose estimation
+- Filter(sobel)
+- Histogram equalization
+- Edge detection(Canny edge detection and Sobel operator)
+- Perspective transformation (homography)
+- Homography decomposition

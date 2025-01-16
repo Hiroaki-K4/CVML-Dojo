@@ -1,0 +1,20 @@
+# Machine Learning
+- Linear regression
+- Logistic regression
+- K-Nearest Neighbors
+- K-Means clustering
+- Weights initialization
+- Batch normalization
+- Weight decay
+- Dropout
+- Loss
+- Gradient descent
+- Activation functions (ReLU, sigmoid, softmax)
+- Optimizer
+- Evaluation metrics(accuracy, precision, recall, F1-score)
+- Convolutional layer
+- Pooling layer
+- Torch tensor manipulation
+- FeedForward NN
+- Transformer
+- Diffusion model
