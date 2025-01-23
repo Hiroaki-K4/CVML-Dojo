@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-
 # Step 1: Define 3D points in the object coordinate space (e.g., a cube)
 object_points = np.array(
     [
