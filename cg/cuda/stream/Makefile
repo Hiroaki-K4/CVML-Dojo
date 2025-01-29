@@ -1,6 +1,6 @@
 SRCS := main.cu
 INCLUDE := -I.
-NAME := vector_addition
+NAME := stream
 CXX := nvcc
 
 all: $(NAME)
