@@ -17,7 +17,7 @@ Given a matrix, return two arrays: one containing the sum of each row and the ot
 Write a function that extracts all odd numbers from a 1D NumPy array and returns them in a new array.
 4. **Replace Values**  
 Replace all negative numbers in a 2D array with 0 without creating a new array.
-5. **Flatten an Image**
+5. **Flatten an Image**  
 Given a 3D array representing an RGB image, flatten it into a 2D array where each row represents the RGB values of a pixel.
 
 ## Medium
