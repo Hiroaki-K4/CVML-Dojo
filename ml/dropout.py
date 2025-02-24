@@ -13,8 +13,6 @@ class Dropout:
             self.mask = (np.random.rand(*inputs.shape) > self.dropout_rate).astype(
                 np.float32
             )
-            print(self.mask)
-            input()
             # Scale the output to maintain expected sum of activations
             return inputs * self.mask / (1.0 - self.dropout_rate)
         else:
